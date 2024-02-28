@@ -1,2 +1,2 @@
-# Basic_Web_Development_Boilerplate_Template
-This is a boilerplate template for quick starting basic web development projects.
+# CSS Practice Repository
+This is a repository for practicing css tools and layouts.
